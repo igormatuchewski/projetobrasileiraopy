@@ -7,7 +7,7 @@ Embora atualmente (março/2024) eu ainda considero que minha capacidade de desen
 
 * Velocidade de leitura e processamento dos dados: quando trabalhamos com muitos dados conectados ao PowerBI e ainda mais, quando são tratados via Power Query, o carregamento e a visualização fica extremamente lenta, levando alguns segundos para carregar e, dependendo do tamanho do arquivo, até minutos;
 * Limitação de linhas: o PowerBI possui uma limitação de 1.048.576 linhas *(fonte: https://support.microsoft.com/pt-br/office/power-query-especifica%C3%A7%C3%B5es-e-limites-no-excel-5fb2807c-1b16-4257-aa5b-6793f051a9f4)* o que pode ser algo muito negativo dependendo do negócio que estamos trabalhando, algo que não existe no Python;
-* Liberdade de personalização: aqui nesse projeto fiz a utlilzação do Streamlit, nessa bilioteca em específico a customização não é o foco, se tornando menos customizável do que o PowerBI, no entanto, existe uma biblioteca chamada 'dash' que é muito mais capaz nesse quesito e pode superar o PowerBI.
+* Liberdade de personalização: aqui nesse projeto fiz a utlilzação do Streamlit, nessa bilioteca em específico a customização não é o foco, se tornando menos customizável do que o PowerBI, no entanto, existe uma biblioteca chamada 'dash' que é mais capaz nesse quesito e pode superar o PowerBI.
 
   ## O Projeto em si
 
